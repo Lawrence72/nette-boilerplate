@@ -1,3 +1,7 @@
+#What is this
+
+This a template for starting Nette projects with modules enabled. 
+
 # How to install
 
 run: composer create-project lawrence72/nette-boilerplate
