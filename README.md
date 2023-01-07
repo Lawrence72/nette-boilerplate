@@ -1,4 +1,4 @@
-#What is this
+# What is this
 
 This a template for starting Nette projects with modules enabled. 
 
@@ -16,5 +16,6 @@ Go to http://192.168.56.10 in your browser.
 This comes with adminer for database administration. Go to: http://192.168.56.10/adminer.php to access the database. 
 
 Database username: root
+
 Database password: root
 
