@@ -1,0 +1,5 @@
+
+.DS_Store
+.vagrant/*
+temp/cache*
+vendor/*

@@ -1,0 +1,4 @@
+services:
+	- App\Router\RouterFactory::createRouter
+	- App\Model\UserFacade
+	- App\Logic\UserLogic

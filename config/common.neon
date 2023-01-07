@@ -1,0 +1,22 @@
+parameters:
+
+
+application:
+	errorPresenter: Error
+	mapping:
+		*: App\Modules\*\Presenters\*Presenter
+
+
+session:
+	expiration: 14 days
+	saveHandler: memcached
+	savePath: "localhost:11211"
+
+
+di:
+	export:
+		parameters: no
+		tags: no
+
+constants:
+	LATTEPATH: '../../../../'		
