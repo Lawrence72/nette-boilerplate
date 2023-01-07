@@ -3,7 +3,7 @@
 	"description": "Nette Boiler Plate",
 	"keywords": ["nette"],
 	"type": "project",
-	"license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"license": ["MIT", "BSD-3-Clause", "GPL-2.0-or-later", "GPL-3.0-or-later"],
 	"require": {
 		"php": ">= 7.4",
 		"nette/application": "^3.1",
@@ -27,6 +27,5 @@
 		"psr-4": {
 			"App\\": "app"
 		}
-	},
-	"minimum-stability": "stable"
+	}
 }
